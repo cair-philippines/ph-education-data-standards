@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Broader Discussion
+    url: https://github.com/cair-philippines/ph-education-data-standards/discussions
+    about: For questions, new field proposals, or policy discussions — start here before opening a PR.
